@@ -1,5 +1,5 @@
 // Martín Bonoris
-// Tp2 comision 1
+// Tp3 comision 1
 //https://youtu.be/G7k_y1OYxBE?feature=shared
 PImage img;
 int cols = 10; 
